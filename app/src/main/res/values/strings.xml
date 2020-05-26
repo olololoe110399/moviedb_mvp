@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Movie Time</string>
+    <string name="movie_name">I Will Find You A Better Home</string>
+    <string name="navigation_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="navigation_favorite">Favorite</string>
+    <string name="movies">Movies</string>
+    <string name="genres">Genres</string>
+    <string name="categories">Categories</string>
+    <string name="top_rated">Top rated</string>
+    <string name="popular">Popular</string>
+
+    <string name="upcoming">Upcoming</string>
+    <string name="IMDb">0.0</string>
+    <string name="release_date">Release date</string>
+    <string name="vote">Votes</string>
+    <string name="favorite">Favorite</string>
+    <string name="produces">Produces</string>
+    <string name="casts">Casts</string>
+    <string name="vote_text">0.0</string>
+    <string name="trailer">Trailers</string>
+    <string name="title_yes">Yes</string>
+    <string name="title_no">No</string>
+    <string name="title_exit_app">Exit the application</string>
+    <string name="notification_exit_app">Are you sure want to exit?</string>
+    <string name="notification_nullable">Not found value</string>
+    <string name="check_internet_fail">Check internet connection!</string>
+    <string name="results_found">Found %1$d results</string>
+    <string name="message_null_result">Result is null</string>
+    <string name="nothing_found">Nothing Found</string>
+    <string name="notification_delete_success">Delete favorite success</string>
+    <string name="notification_delete_failed">Delete favorite failed</string>
+    <string name="notification_add_favorite_success">This movie is added to favorite items</string>
+    <string name="notification_add_favorite_failed">This movie already has been added</string>
+</resources>
